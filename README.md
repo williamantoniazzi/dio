@@ -22,3 +22,7 @@ git init
 
 ## 🔍 Referências
 - [Digital Innovation One](https://www.dio.me/).
+
+https://github.com/elidianaandrade/dio-curso-git-github
+https://github.com/elidianaandrade/dio-lab-portfolio
+https://github.com/elidianaandrade/dio-roadmaps
