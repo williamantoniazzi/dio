@@ -34,6 +34,6 @@ Descreva de forma objetiva as alterações realizadas neste PR.
 - [ ] Cobertura de testes mantida ou aumentada
 
 
-## 👀 SCREENSHOTS OR EVIDENCE (IF NEEDED):
+## 👀 OTHERS EVIDENCE OR ADDITIONAL INFORMATION (OPTIONAL):
 
 <coloque aqui prints, logs, ou gifs de testes>
