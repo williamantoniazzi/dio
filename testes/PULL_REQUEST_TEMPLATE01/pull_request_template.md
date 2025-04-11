@@ -37,4 +37,4 @@ Descreva de forma objetiva as alterações realizadas neste PR.
 ## 👀 OTHERS EVIDENCE OR ADDITIONAL INFORMATION (OPTIONAL):
 
 <coloque aqui prints, logs, ou gifs de testes>
-CamelCase em .github/PULL_REQUEST_TEMPLATE/
+minusculo .github/PULL_REQUEST_TEMPLATE
